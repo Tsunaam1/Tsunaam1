@@ -12,11 +12,19 @@
 
 ###
 
+<img align="right" height="200" src="https://cdn.discordapp.com/attachments/904061355382935585/1197257168525733888/eric.png"  />
+
+###
+
 <h2 align="left">About me</h2>
 
 ###
 
 <p align="left">🔭 I'm currently working on Songalyzer</p>
+
+###
+
+<p align="left"></p>
 
 ###
 
