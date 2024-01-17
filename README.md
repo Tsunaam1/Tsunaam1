@@ -1,6 +1,11 @@
 
 ![Start-1024-30-3D](https://github.com/Tsunaam1/Tsunaam1/assets/119320765/edf33efe-b08e-4644-85c3-db69802f2bdc)
 
+### Hello! 👋
+I'm just working on some stuff. You can take a look at my [web](https://tunki.pages.dev/) if you want to!
+
+Thank you for stopping by! 🤗
+
 <!--
 **Tsunaam1/Tsunaam1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
