@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">🔭 I'm currently working on [Songalyzer](https://github.com/Tsunaam1/Songalyzer)</p>
+🔭 I'm currently working on [Songalyzer](https://github.com/Tsunaam1/Songalyzer)
 
 ###
 
