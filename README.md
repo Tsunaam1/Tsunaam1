@@ -12,7 +12,7 @@
 
 ###
 
-<img align="right" height="200" src="https://cdn.discordapp.com/attachments/904061355382935585/1197257168525733888/eric.png"  />
+<img align="right" height="200" src="https://cdn.discordapp.com/attachments/904061355382935585/1197257168525733888/eric.png](https://cdn.discordapp.com/attachments/904061355382935585/1212296144995090463/eric.png"  />
 
 ###
 
