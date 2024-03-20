@@ -12,10 +12,6 @@
 
 ###
 
-<img align="right" height="200" src=""  />
-
-###
-
 <h2 align="left">About me</h2>
 
 ###
