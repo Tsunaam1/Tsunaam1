@@ -1,7 +1,5 @@
 <br clear="both">
 
-<img align="right" src="https://profile-counter.glitch.me/Tsunaam1/count.svg?"  />
-
 ###
 
 <h1 align="left">Hello! 👋</h1>
@@ -16,7 +14,7 @@
 
 ###
 
-🔭 I'm currently working on 
+🔭 I'm currently working on [Project_DKT](https://github.com/Rdyst/Project_DKT)
 
 ###
 
