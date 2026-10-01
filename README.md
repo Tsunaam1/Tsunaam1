@@ -14,11 +14,11 @@
 
 ###
 
-🔭 I'm currently working on [Project_DKT](https://github.com/Rdyst/Project_DKT)
+🔭 I'm currently working on <i>nothing</i>
 
 ###
 
-<p align="left">👾 My hobbies are: Sim Racing, Programming (sometimes) and Sleeping</p>
+<p align="left">👾 My hobbies are: Music Production, Programming (sometimes) and Sleeping</p>
 
 ###
 
